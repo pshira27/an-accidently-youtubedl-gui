@@ -1,0 +1,1 @@
+.\yt-dlp.exe -o "Downloaded/%(title)s.%(ext)s" "https://www.youtube.com/watch?v=LT7g8Ul-yRI"
